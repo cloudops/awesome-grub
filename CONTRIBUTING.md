@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-This resource is a community effort and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/swill/awesome-grub/graphs/contributors).
+This resource is a community effort and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/cloudops/awesome-grub/graphs/contributors).
 
 - **To add, remove, or change things on the list:** `Submit a pull request`
 - Changes to the content should be made in the `README.md` file.
@@ -10,7 +10,7 @@ Please follow the following guidelines when contributing:
 - Categories should be listed *alphabetically* and should be present in the Table of Contents.
 - List items should be sorted *alphabetically* within a category.
 - Each item should be limited to one restaurant.
-- The item should include the name of the restaurant, a google maps link and the appropriate symbol for relative price and a description.
+- The item should include the name of the restaurant as a link to a google maps place and the appropriate symbol for relative price and a description.
 - Descriptions should be clear, concise and representative of what to expect.
 - Descriptions should follow the name, map and symbol, on the same line and end with a punctuation mark.
 - An item should only be present in one category.

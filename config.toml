@@ -1,4 +1,4 @@
-baseURL = "https://awesome-gc.com/"
+baseURL = "https://awesome-grub.com/"
 languageCode = "en-us"
 title = "awesome-grub"
 theme = "minimal"
@@ -20,7 +20,7 @@ canonifyurls = true
     # theme overrides
     mathJax = false
     css = ["css/awesome-style.css"]
-    copyright = "The contents of this website is [maintained by the community](https://github.com/swill/awesome-grub/blob/master/CONTRIBUTING.md)."
+    copyright = "The contents of this website is [maintained by the community](https://github.com/cloudops/awesome-grub/blob/master/CONTRIBUTING.md)."
     logo = "img/chef.png"
 
 [[menu.main]]
@@ -48,7 +48,7 @@ canonifyurls = true
 #     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/swill/awesome-grub/"
+    url = "https://github.com/cloudops/awesome-grub/"
     name = "github"
     weight = 2
 
