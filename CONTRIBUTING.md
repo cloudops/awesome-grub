@@ -10,7 +10,8 @@ Please follow the following guidelines when contributing:
 - Categories should be listed *alphabetically* and should be present in the Table of Contents.
 - List items should be sorted *alphabetically* within a category.
 - Each item should be limited to one restaurant.
-- The item should include the name of the restaurant as a link to a google maps place and the appropriate symbol for relative price and a description.
+- The item should include the name of the restaurant as a link to a Google Maps Place and the appropriate symbol for relative price and a description.
+  - Find the restaurant on Google Maps, then with the Place selected, click `Share` and copy the link.
 - Descriptions should be clear, concise and representative of what to expect.
 - Descriptions should follow the name, map and symbol, on the same line and end with a punctuation mark.
 - An item should only be present in one category.
@@ -31,9 +32,7 @@ To be on the list, restaurants should adhere to these quality standards:
 
 To make sure every PR is checked, we have a [team of maintainers](MAINTAINERS). Every PR MUST be reviewed by at least one maintainer before it can get merged. **Note: Please consider becoming a maintainer.**  
 
-The maintainers will review your PR and notify you and tag it in case any
-information is still missing. They will wait 8 days for your interaction, after
-that the PR will be closed.
+The maintainers will review your PR and notify you and tag it in case any information is still missing. They will wait 8 days for your interaction, after that the PR will be closed.
 
 
 ## Reporting Issues
