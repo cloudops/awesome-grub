@@ -8,7 +8,7 @@
 
 - [Burgers](#burgers)
 - [Cafe](#cafe)
-- [Californian](#cali)
+- [Californian](#californian)
 - [Japanese](#japanese)
 - [Pub](#pub)
 
