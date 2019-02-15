@@ -2,8 +2,20 @@
 
 This resource is a community effort and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/cloudops/awesome-grub/graphs/contributors).
 
-- **To add, remove, or change things on the list:** `Submit a pull request`
+- **To add, remove, or change things on the list: `Submit a Pull Request`**
 - Changes to the content should be made in the `README.md` file.
+
+There are two ways to create a pull request to contribute:
+1. Use the editor inside the Github Web UI (the easy way).
+  - Select the `README.md` file and then click the **pencil** *(Edit this file)* in the top right of the page.
+  - Make your changes, fill in the `Commit changes` section and click the `Commit changes` button.
+  - In the background, this will fork the repo to your account and create a pull request including the desired changes.
+2. Manually fork the repo and create a pull request (the developers way).
+  - In the top right of the screen, click the `Fork` button, which will fork the repo to your personal Github account.
+  - Once forked, `clone` your forked repository down to your local machine.
+  - Make edits locally and then `push` your changes to your forked repo.
+  - Click the new `Compare & pull request` button which just became available in your forked repo.
+  - Review the details of the pull request and when finished, click the `Send pull request` button.
 
 Please follow the following guidelines when contributing:
 
