@@ -38,7 +38,7 @@
 ## Chinese
 
 - [Nouilles de Lan Zhou](https://goo.gl/maps/iyt2u4iDNZk3gnoD9) - $$ - Amazing chinese soups made with homemade noodles. Always a big line, ordering online and picking it up is recommended.
-- [Quin Hua](https://goo.gl/maps/EeireNqQHkhZHHzj9) - $$ - Best chinese soup dumplings in Montreal.
+- [Qing hua](https://goo.gl/maps/EeireNqQHkhZHHzj9) - $$ - Best chinese soup dumplings in Montreal.
 
 ## Japanese
 
