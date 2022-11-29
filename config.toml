@@ -21,7 +21,7 @@ canonifyurls = true
     mathJax = false
     css = ["css/awesome-style.css"]
     copyright = "The contents of this website is [maintained by the community](https://github.com/cloudops/awesome-grub/blob/master/CONTRIBUTING.md)."
-    logo = "img/chef.png"
+    logo = "img/chef_logo.png"
 
 [[menu.main]]
     url = "/"
